@@ -1,0 +1,48 @@
+   <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Can I have a porta potty placed inside a building, like a warehouse or garage?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. For two important reasons: our service trucks require direct access to the unit to pump out the tank, and the units require open, outdoor ventilation to function properly and safely.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What are the site requirements for placing a unit?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The unit must be placed on a solid, level surface. Our service trucks need a clear access path that is at least 10-12 feet wide, and the truck must be able to get within 25 feet of the unit to properly service it.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if there is severe weather like high winds or heavy rain?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our units are designed to be stable and weather-resistant. In cases of extreme weather advisories, we may contact you to discuss the safest placement. If a unit does tip over, please call us immediately, and we will dispatch a crew to resolve the situation.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is included in the rental price?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our quotes are all-inclusive. The price you see includes the delivery of the unit, placement, pickup, and all scheduled servicing and supplies (like toilet paper and chemicals) for the duration of your rental.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I move the porta potty myself after it has been placed?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For your safety and to ensure the unit remains serviceable, we ask that you do not attempt to move it. If you need it relocated, please contact us, and we will send a technician to move it for you safely.</p>
+                <div class="callalooma mx-auto"><a href="tel:801441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div> 
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
